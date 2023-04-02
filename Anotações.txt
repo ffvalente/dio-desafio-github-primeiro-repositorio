@@ -1,0 +1,5 @@
+Um repositório postado é um local onde você pode armazenar e compartilhar 
+seu código com outras pessoas. É um lugar onde você pode colaborar com outros 
+desenvolvedores, receber feedback e contribuições para o seu projeto. No repositório, 
+você pode manter diferentes versões do seu código e fazer modificações conforme necessário. 
+É uma ferramenta essencial para quem trabalha com programação e desenvolvimento de software.
